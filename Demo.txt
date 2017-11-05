@@ -1,1 +1,3 @@
 HOla mundo desde Lab de Idat :>
+
+1+1=2 para obtener con Js
